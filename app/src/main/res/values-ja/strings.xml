@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">映画リスト</string>
+    <string name="btnMore">続きを読む</string>
+    <string name="txtDate">発売日 ： </string>
+    <string name="txtSyn">概要：</string>
+    <string name="txtMenu">言語設定</string>
+    <string name="txtMenu2">思い出させる</string>
+    <string name="txtRating">MovieDBを評価する : </string>
+    <string name="one_time_alarm">ワンタイムアラーム</string>
+    <string name="tanggal_alarm">アラーム発生日</string>
+    <string name="waktu_alarm">アラーム時間</string>
+    <string name="pesan_alarm">警報メッセージ</string>
+    <string name="repeating_alarm">繰り返し警報</string>
+    <string name="set_one_time_alarm">ワンタイムアラームを設定する</string>
+    <string name="set_repeating_alarm">繰り返しアラームを設定</string>
+    <string name="batalkan_alarm">アラームをキャンセル</string>
+
+
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="btnMore">Read More</string>
+    <string name="txtDate">Release Date : </string>
+    <string name="txtSyn">Synopsis :</string>
+    <string name="txtMenu">Language Settings</string>
+    <string name="txtMenu2">Reminder</string>
+    <string name="txtRating">Rating MovieDB : </string>
+    <string name="one_time_alarm">One Time Alarm</string>
+    <string name="tanggal_alarm">Alarm Date</string>
+    <string name="waktu_alarm">Alarm Time</string>
+    <string name="pesan_alarm">Alarm Message</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="set_one_time_alarm">Set One Time Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="batalkan_alarm">Cancel Alarm</string>
+
+</resources>
